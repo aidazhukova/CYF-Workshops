@@ -23,4 +23,6 @@ b) What will `result2` evaluate to? Explain your answer
 c) Try to summarise the main difference between `logSum` and `calculateSum`
 
 
-{YOUR ANSWERS HERE}
+a)42
+b)string 42
+c) first returning the value and second using console log to return the value
